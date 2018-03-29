@@ -1,0 +1,27 @@
+SSD: Single Shot MultiBox Detector
+
+
+    정의
+        https://arxiv.org/abs/1512.02325
+        [1512.02325] SSD: Single Shot MultiBox Detector
+        Computer Science > Computer Vision and Pattern Recognition SSD: Single Shot MultiBox Detector Wei Liu , Dragomir Anguel...
+        arxiv.org
+
+    source git 위치 (caffe 기반)
+
+        https://github.com/intel/caffe/wiki/SSD:-Single-Shot-MultiBox-Detector
+        intel/caffe
+        caffe - This fork of BVLC/Caffe is dedicated to improving performance of this deep learning framework when running on CPU, in pa...
+        github.com
+        https://github.com/weiliu89/caffe/tree/ssd
+        weiliu89/caffe
+        caffe - Caffe: a fast open framework for deep learning.
+        github.com
+
+
+    model file
+        https://github.com/conner99/VGGNet/blob/master/VGG_ILSVRC_16_layers_fc_reduced.caffemodel
+        conner99/VGGNet
+        Contribute to VGGNet development by creating an account on GitHub.
+        github.com
+         
